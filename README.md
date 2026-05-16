@@ -12,6 +12,7 @@
 
 ### Front-End Developer · React.js Specialist · Cairo, Egypt
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamed--fayed.vercel.app-00b4d8?style=flat-square&logo=vercel&logoColor=white)](https://mohamed-fayed-porfile.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed-Fayed-Fayed12)
 [![Email](https://img.shields.io/badge/Email-mohamedfaye12d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedfaye12d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Fayed12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fayed12)
@@ -172,6 +173,7 @@ Instant messaging with Firebase live updates — no page reloads. Clean componen
 
 **Let's build something great together.**
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00b4d8?style=for-the-badge)](https://mohamed-fayed-porfile.vercel.app/)
 [![Email Me](https://img.shields.io/badge/📩_Email_Me-mohamedfaye12d@gmail.com-EA4335?style=for-the-badge)](mailto:mohamedfaye12d@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/Mohamed-Fayed-Fayed12)
 
